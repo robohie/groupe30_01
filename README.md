@@ -5,4 +5,6 @@ Nom     : BOSOLINDO\
 Postnom : EDHIENGENE\
 Prénom  : ROGER\
 \
-Ce répertoire contient les codes python des travaux du cours d'algorithmique que je suis en bac 2 de la faculté polytechnique de l'Université de Kinshasa.
+Ce répertoire contient les codes python des travaux du cours d'algorithmique que je suis en bac 2 de la faculté polytechnique de l'Université de Kinshasa.\
+
+Voir la branche "bosolindo(GEI)" pour avoir accès au travail
